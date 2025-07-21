@@ -78,6 +78,6 @@ If you encounter missing package errors, install the relevant packages with `pip
 | ------------- | ------------- | ------------- | ----------------------- | ----------------------- | ----------------------- | ----------------------- |  
 |     VGG-16    |      0.89     |      0.90     |           0.64          |           0.75          |           0.97          |           0.93          |
 |     VGG-19    |      0.87     |      0.82     |           0.64          |           0.72          |           0.95          |           0.91          |
-|   ResNet-50   |      0.93     |      0.92     |           0.79          |           0.85          |           0.97          |           0.95          |
+|   ResNet-18   |      0.93     |      0.92     |           0.79          |           0.85          |           0.97          |           0.95          |
 
-
+ResNet-18 performs better and has been selected as the experimenting model.
