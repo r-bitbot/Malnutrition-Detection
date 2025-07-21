@@ -19,9 +19,9 @@ Unless you are planning to run this on your google colab, ensure you have Python
 
 ### 3. Specify the local directory path
 For Google Colab, replace the code
-'''
+' ' '
 data_dir = '/content/drive/My Drive/'
-'''
+' ' '
 with
 '''
 data_dir = '/content/drive/location/'
